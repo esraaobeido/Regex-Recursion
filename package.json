@@ -1,0 +1,16 @@
+{
+  "name": "regex-recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recursion.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "jest": "^29.5.0",
+    "test": "^3.3.0"
+  }
+}
